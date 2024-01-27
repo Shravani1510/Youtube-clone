@@ -216,6 +216,13 @@ nav{
     .logo{
         width: 90px;
     }
+    .banner img{
+        height: 150px;
+    }
+    .banner div{
+        font-size: 20px;
+        top: 20%;
+    }
 }
 
 /* ---------------play video page ---------------- */
